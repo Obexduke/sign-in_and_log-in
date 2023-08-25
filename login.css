@@ -30,9 +30,9 @@ button {
     padding-left: 10rem;
 
 }
-button :hover{
+button:hover{
     background-color: white;
-    color: black;
+    color: blue;
 }
 .yo{
     color: blue;
@@ -43,3 +43,4 @@ label{
 hr{
   background-color: blue;  
 }
+
